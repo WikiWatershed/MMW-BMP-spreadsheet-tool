@@ -1,5 +1,5 @@
 # MMW-BMP-Spreadsheet-Tool
-Spreadsheet for advanced BMP planning based on model output from the [WikiWatershed / Model My Watershed (MMW) web application](https://app.wikiwatershed.org). The tool was designed to help meet permit renewal obligations in Pennsylvania, but it is also useful for MS4 permitting and watershed conservation plans in other regions.
+An Excel workbook for advanced BMP planning based on model output from the [WikiWatershed / Model My Watershed (MMW) web application](https://app.wikiwatershed.org). The tool was designed to help meet permit renewal obligations in Pennsylvania, but it is also useful for MS4 permitting and watershed conservation plans in other regions.
 
 Download our **[MMW-BMP-Spreadsheet-Tool.xlsx](https://raw.githubusercontent.com/WikiWatershed/MMW-BMP-spreadsheet-tool/master/MMW_BMP_Spreadsheet_Tool.xlsx.)** file to get started!
 
