@@ -18,8 +18,12 @@ Now that the modeling routines in MapShed have been incorporated into Model My W
 
 ## Change list:
 
-2020-01-09 - v0.9.0:  Both the spreadsheet tool and the user manual have been updated.  The prior versions of both are still available in the [Archives](https://github.com/WikiWatershed/MMW-BMP-spreadsheet-tool/tree/master/Archives) folder.
+2020-01-09 - v1.0.0:  Both the spreadsheet tool and the user manual have been updated.
+   - Allows for input of farm animal information returned by Model My Watershed
+   - Allows for calculation of streambank loading rates based on information returned by Model My Watershed
+   - Incorporates data checks to avoid over-implementation of various agricultural BMP's.
 
-2018-10-17 - v0.8.0:  Spreadsheet released
+2018-10-17 - v0.8.0:  Spreadsheet released.
+    - Still available in the [Archives](https://github.com/WikiWatershed/MMW-BMP-spreadsheet-tool/tree/master/Archives) folder.
 
 2018-08-02 - v0.7.0beta:  Beta version
