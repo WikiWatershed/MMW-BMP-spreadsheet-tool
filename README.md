@@ -18,12 +18,29 @@ Now that the modeling routines in MapShed have been incorporated into Model My W
 
 ## Change list:
 
-2020-01-09 - v1.0.0:  Both the spreadsheet tool and the user manual have been updated.
+v1.0.0 (2020-01-09 at 1:00pm ET)
    - Allows for input of farm animal information returned by Model My Watershed
    - Allows for calculation of streambank loading rates based on information returned by Model My Watershed
    - Incorporates data checks to avoid over-implementation of various agricultural BMP's.
+   - Added a completed example spreadsheet
 
-2018-10-17 - v0.8.0:  Spreadsheet released.
-    - Still available in the [Archives](https://github.com/WikiWatershed/MMW-BMP-spreadsheet-tool/tree/master/Archives) folder.
+v0.8.1 (2018-10-17 at 11:30am ET)
+   - Added Reid Christianson as a co-author.
+   - Added forward compatibility for handling the outputs for "Low-Density Open"
+   - Available in the [Archives](https://github.com/WikiWatershed/MMW-BMP-spreadsheet-tool/tree/master/Archives) folder.
 
-2018-08-02 - v0.7.0beta:  Beta version
+v0.8.0 (2018-10-03 at 3:19 pm CT)
+   - Color coding of tabs and cells to better indicate where a user needs to fill in information.
+   - Reorganization and renaming of tabs for consistency, including:
+        - Resolved issue #8 to "Combine "Stream Bank Loading Rate" tabs for Sediment, Nitrogen & Phosphorus"
+        - Resolved issue #7 to "Create "Technical Documentation" tab, expanding from "Perf Std Approach""
+        - Minor formatting changes to improve consistency amongst the tabs
+   - Fix to "Urban Area" section of "Total Load Reductions" tab, to return "--" if Urban Area (and their loads) are zero.
+   - Improved number formatting in "Total Load Reductions" tab, adding commas to the big numbers and percent symbols to the percentages.
+   - Improved documentation, by adding a NLCD>MapShed Landuse category conversion table to bottom of the TechDocs tab, partially completing issue #9.
+
+
+v0.7.0-beta (2018-07-30 at 9:15 CT)
+   - This is the first release of the Model My Watershed BMP Spreadsheet Tool that both:
+       - Accepts outputs from the Model My Watershed "multi-year" model (GWLF-E), https://app.wikiwatershed.org.
+       - Models the benefits of Urban Best Management Practices (BMPs) using the Chesapeake Bay Program's (CBP's) "Performance Standard" approach to calculating load removal efficiencies
