@@ -18,6 +18,10 @@ Now that the modeling routines in MapShed have been incorporated into Model My W
 
 ## Change list:
 
+v1.0.1 (2023-08-15 at 5:00pm ET)
+- Fixed equation for Conservation Tillage (60% residue) so that correct cell was used for "Lbs/Yr Reduced" calculation
+- Corrected "available load" calculations for Manure Treatment (Thermo Chemical) and Manure Treatment (Composting) BMPs
+
 v1.0.0 (2020-01-09 at 1:00pm ET)
    - Allows for input of farm animal information returned by Model My Watershed
    - Allows for calculation of streambank loading rates based on information returned by Model My Watershed
